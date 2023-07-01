@@ -1,0 +1,9 @@
+.select {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.select .select__control {
+  background-color: gray;
+  border-radius: var(border-radius);
+}

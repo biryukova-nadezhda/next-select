@@ -1,0 +1,154 @@
+{
+  "countries": [
+    {
+      "id": "1",
+      "country": "Russia",
+      "capital": "Moscow"
+    },
+    {
+      "id": "2",
+      "country": "Canada",
+      "capital": "Ottawa"
+    },
+    {
+      "id": "3",
+      "country": "United States",
+      "capital": "MoscWashingtonow"
+    },
+    {
+      "id": "4",
+      "country": "China",
+      "capital": "Beijing"
+    },
+    {
+      "id": "5",
+      "country": "Brazil",
+      "capital": "Brasília"
+    },
+    {
+      "id": "6",
+      "country": "Australia",
+      "capital": "Canberra"
+    },
+    {
+      "id": "7",
+      "country": "India",
+      "capital": "New Delhi"
+    },
+    {
+      "id": "8",
+      "country": "Argentina",
+      "capital": "Buenos Aires"
+    },
+    {
+      "id": "9",
+      "country": "Kazakhstan",
+      "capital": "Astana"
+    },
+    {
+      "id": "10",
+      "country": "Algeria",
+      "capital": "Algeria"
+    },
+    {
+      "id": "11",
+      "country": "Saudi Arabia",
+      "capital": "Riyadh"
+    },
+    {
+      "id": "12",
+      "country": "Mexico",
+      "capital": "Mexico"
+    },
+    {
+      "id": "13",
+      "country": "Indonesia",
+      "capital": "Jakarta"
+    },
+    {
+      "id": "14",
+      "country": "Sudan",
+      "capital": "Khartoum"
+    },
+    {
+      "id": "15",
+      "country": "Libya",
+      "capital": "Tripoli"
+    },
+    {
+      "id": "16",
+      "country": "Iran",
+      "capital": "Teheran"
+    },
+    {
+      "id": "17",
+      "country": "Mongolia",
+      "capital": "Ulaanbaatar"
+    },
+    {
+      "id": "18",
+      "country": "Peru",
+      "capital": "Lima"
+    },
+    {
+      "id": "19",
+      "country": "Chad",
+      "capital": "N'Djamena"
+    },
+    {
+      "id": "20",
+      "country": "Niger",
+      "capital": "Niamey"
+    },
+    {
+      "id": "21",
+      "country": "Mali",
+      "capital": "Bamako"
+    },
+    {
+      "id": "22",
+      "country": "South Africa",
+      "capital": "Pretoria"
+    },
+    {
+      "id": "23",
+      "country": "Colombia",
+      "capital": "Bogota"
+    },
+    {
+      "id": "24",
+      "country": "Ethiopia",
+      "capital": "Addis Ababa"
+    },
+    {
+      "id": "25",
+      "country": "Bolivia",
+      "capital": "La Paz"
+    },
+    {
+      "id": "26",
+      "country": "Mauritania",
+      "capital": "Nouakchott"
+    },
+    {
+      "id": "27",
+      "country": "Egypt",
+      "capital": "Cairo"
+    },
+    {
+      "id": "28",
+      "country": "Tanzania",
+      "capital": "Dodoma"
+    },
+    {
+      "id": "29",
+      "country": "Nigeria",
+      "capital": "Abuja"
+    },
+    {
+      "id": "30",
+      "country": "Venezuela",
+      "capital": "Caracas"
+    }
+  ]
+}
